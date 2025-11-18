@@ -27,7 +27,7 @@
     "bluebird": "^3.5.0",
     "botkit": "^0.7.4",
     "cf-deployment-tracker-client": "*",
-    "cfenv": "^1.2.2",
+    "cfenv": "^1.2.4",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
     "express-browserify": "^1.0.3",
